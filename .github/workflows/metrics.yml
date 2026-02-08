@@ -19,8 +19,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           
-          committer_name: ads6yy
-          committer_email: 44005081+ads6yy@users.noreply.github.com
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           
           plugin_lines: yes
           plugin_isocalendar: yes
