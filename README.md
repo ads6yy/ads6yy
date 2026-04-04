@@ -2,7 +2,7 @@
 
 I am a **Tech Lead PHP** based in Paris.
 
-I specialize in constructing robust web architectures and API-first solutions. My workflow is containerized, my code is strict-typed, and I focus on delivering clean, maintainable logic within the **Symfony** and **Drupal** ecosystems.
+I specialize in architecting robust web systems and API-first solutions. Driven by type-safety and containerization, I build clean, sustainable logic tailored for the **Symfony** and **Drupal** ecosystems.
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=flat-square&logo=symfony&logoColor=white) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=flat-square&logo=drupal&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
