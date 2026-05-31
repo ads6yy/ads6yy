@@ -35,4 +35,4 @@ jobs:
           plugin_stars_limit: 3
 
           plugin_organizations: yes
-          organizations_skipped: Odyssey616
+          organizations_skipped: odyssey616
