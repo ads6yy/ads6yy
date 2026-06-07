@@ -31,7 +31,7 @@ jobs:
           plugin_notable: yes
           plugin_notable_indepth: yes
           plugin_notable_repositories: yes
-          plugin_notable_skipped: odyssey616/odyssey616-marathon,odyssey616/odyssey616-map,odyssey616/odyssey616-monorepo
+          plugin_notable_skipped: odyssey616/odyssey616-marathon,odyssey616/odyssey616-map,odyssey616/odyssey616-monorepo,odyssey616/odyssey616-data,odyssey616/odyssey616-hub
           
           plugin_stars: yes
           plugin_stars_limit: 3
