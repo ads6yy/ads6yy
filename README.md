@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Adsy
 
-I am a **Tech Lead PHP** based in Paris.
+I am a **Lead/Senior Dev PHP** based in Paris.
 
 I specialize in architecting robust web systems and API-first solutions. Driven by type-safety and containerization, I build clean, sustainable logic tailored for the **Symfony** and **Drupal** ecosystems.
 
